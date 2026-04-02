@@ -17,7 +17,7 @@ Each turn processes player actions, calculates damage, and updates game state un
 - Object-oriented programming concepts
 - Conditional logic and control flow
 - Managing game state across multiple turns
-- Designing a larger multi-function program (~500 lines)
+- Designing a larger multi-function Python program
 
 ## How to Run
 1. Open the file in Python
